@@ -27,7 +27,7 @@ jsonlib2==1.5.2
 jsonschema==2.5.1
 oauthlib==0.6.1
 piston-mini-client==0.7.5
-pyOpenSSL==0.13
+pyOpenSSL==0.14
 pycrypto==2.6.1
 pymongo==3.2.2
 pyserial==2.6
